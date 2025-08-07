@@ -1,0 +1,22 @@
+{
+  "name": "last-day-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-Tol/last-day-practice.git"
+  },
+  "author": "Koleen Tolentino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-Tol/last-day-practice/issues"
+  },
+  "homepage": "https://github.com/K-Tol/last-day-practice#readme",
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}
